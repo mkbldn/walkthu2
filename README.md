@@ -1,4 +1,4 @@
-# walkthu2\
+# walkthu2
 
 ## Intro
 
